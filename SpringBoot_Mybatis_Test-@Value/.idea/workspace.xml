@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="973933cf-34c2-4fb8-9343-aca0b659b4da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/bean/ReturnBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/service/impl/HistoryDataServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/util/basic/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/util/http/HTTPUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/.gitee/ISSUE_TEMPLATE.zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/Startup.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/Startup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/bean/SsqHistoryBlueDataBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/bean/SsqHistoryBlueDataBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/common/MyBatisMapperScannerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/common/MyBatisMapperScannerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/common/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/common/MybatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/controller/HistoryDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/controller/HistoryDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/mapper/SsqHistoryBlueDataBeanMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/mapper/SsqHistoryBlueDataBeanMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/service/HistoryDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/vanda/business/service/HistoryDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/java/com/yc/lottery/service/impl/HistoryDataServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/resources/mybatis/mapper/SsqHistoryBlueDataBeanMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/main/resources/mybatis/mapper/SsqHistoryBlueDataBeanMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/sql/createSql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/sql/createSql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/test/java/com/yc/lottery/LotteryApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_Mybatis_Test/src/test/java/com/vanda/business/LotteryApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SpringBoot_Mybatis_Test" />
+  </component>
+  <component name="ProjectId" id="1Taxz5OUPc5c8STBP9LMXt0Uneu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="973933cf-34c2-4fb8-9343-aca0b659b4da" name="Default Changelist" comment="" />
+      <created>1573712266281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573712266281</updated>
+      <workItem from="1573712267421" duration="1353000" />
+      <workItem from="1573781339728" duration="8517000" />
+      <workItem from="1573815486703" duration="31000" />
+      <workItem from="1574062308384" duration="72000" />
+      <workItem from="1574818963532" duration="48000" />
+      <workItem from="1577689646638" duration="12000" />
+      <workItem from="1577689716167" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1577689860362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577689860362" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1577689864118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577689864118" />
+  </component>
+</project>
